@@ -1,0 +1,66 @@
+* {
+  margin: auto;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body{
+        margin: auto;
+        padding: 10px 20px;
+        justify-content: center;
+        height: 100vh;  
+        align-content: center;  
+        display: flex;
+}
+
+.flodesk-header{
+        text-align: center;
+        font-family: "Roboto", sans-serif;
+        font-size: 40px;
+}
+
+.greeting{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+input{
+    border-radius: 20px;
+    width: 50%;
+    padding: 15px 20px;
+    margin: 10px;
+}
+
+form{
+    justify-content: center;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    width: 100%;
+    padding: 0px;
+    margin: 10px;
+}
+
+button{
+    text-align: center;
+    padding: 10px;
+    width: 50%;
+    cursor: pointer;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+}
+
+.signup{
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+    width: 300px;
+}
+
+.term{
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+}
